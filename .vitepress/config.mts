@@ -2,8 +2,8 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-    title: "Hello-Wolrd",
-    description: "一个用于构建web世界的平台+框架",
+    title: "Hello-Wolrd-Js",
+    description: "一个用于构建iframe-like的平台+框架",
     themeConfig: {
         // https://vitepress.dev/reference/default-theme-config
         nav: [

@@ -1,6 +1,12 @@
-# Markdown Extension Examples
+# 什么是 Hello-World-Js?
 
-This page demonstrates some of the built-in markdown extensions provided by VitePress.
+Hello-World-Js(以下简称 hwj)是一个用于构建 iframe-like 内容平台的框架
+
+hwj 维护一个 web 应用内容平台(就像应用商店一样!),并提供 API 用于开发可嵌入平台的 web 应用(以下简称为世界)
+
+例如:
+
+你可以将你用 Vuejs 编写的一个 web 应用,通过特定的构建流程嵌入至 hwj 内
 
 ## Syntax Highlighting
 
